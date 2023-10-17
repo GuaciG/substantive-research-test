@@ -4,16 +4,15 @@ API:
 
 - https://substantive.pythonanywhere.com/
 
-Your task is to pull in this data through the API
-
-create an application that outputs this data in a web application (HTML) which will show the percentages of interactions this client has for each sector.
+Your task is to pull in this data through the API and create an application that outputs this data in a web application (HTML) which will show the percentages of interactions this client has for each sector.
 
 Bonus points for:
-● A nice UI that makes the most of the output
-● Use of a css preprocessor
-● Use of graphs/tables
-● Sharing your plan and approach (any notes you made before coding started)
-● Any future plans for how the application could be improved
+
+- A nice UI that makes the most of the output
+- Use of a css preprocessor
+- Use of graphs/tables
+- Sharing your plan and approach (any notes you made before coding started)
+- Any future plans for how the application could be improved
 
 How to run it:
 
