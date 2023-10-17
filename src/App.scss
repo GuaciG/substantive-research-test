@@ -1,0 +1,40 @@
+.wrapper {
+  width: 100%;
+  max-width: 1280px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+
+  h1 {
+    color: var(--color-heading);
+  }
+
+  .wrapper-app {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  table {
+    border: 2px solid var(--border-table);
+    width: 650px;
+    height: 200px;
+  }
+
+  th {
+    border-bottom: 1px solid var(--border-bottom-cell);
+    padding: 1rem 0;
+  }
+
+  tr:nth-child(even) {
+    background-color: var(--background-table-even);
+    color: var(--color-text-even);
+  }
+
+  td {
+    text-align: center;
+  }
+}

@@ -1,0 +1,9 @@
+.tooltip-box {
+  background-color: var(--background-tooltip);
+  padding: 10px;
+  border: 1px solid #ccc;
+
+  p {
+    color: var(--color-text-tooltip);
+  }
+}

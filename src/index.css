@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400&display=swap");
+:root {
+  /* fonts */
+  --font-poppins: "Poppins", sans-serif;
+  /* colors */
+  --background-app: #1f1f1f;
+  --background-table-even: #dddddd;
+  --background-tooltip: #fff;
+  --color-text-tooltip: #333;
+  --color-text-even: #333;
+  --color-heading: blue;
+  --color-text-odd: #fff;
+  --border-table: forestgreen;
+  --border-bottom-cell: #000;
+}
+
+html,
+body {
+  font-family: var(--font-poppins);
+  background-color: var(--background-app);
+  color: var(--color-text-odd);
+}
